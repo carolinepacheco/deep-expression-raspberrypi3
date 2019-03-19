@@ -3,7 +3,7 @@
 Last Page Update: **19/03/2019**
 
 
-The automatic analysis of facial expressions has drawn attention of several researchers in different fields such as psychology, computer science, neuroscience and others. In the last years, the researchers has introduced and evaluated several approaches for face detection, recognition and analysis. The facial expression recognition can be used for human-computer interface (HCI), computer graphics animation, security and surveillance and driver safety. In this work we propose a creative face recognition system using Raspberry Pi 3. It detects seven expression and show on an 8X8 RGB LED matrix.
+The automatic analysis of facial expressions has drawn attention of several researchers in different fields such as psychology, computer science, neuroscience and others. In the last years, the researchers has introduced and evaluated several approaches for face detection, recognition and analysis. The facial expression recognition can be used for human-computer interface (HCI), computer graphics animation, security and surveillance and driver safety. In this work we propose a creative deep face recognition system using Raspberry Pi 3. It detects seven expression and show on an 8X8 RGB LED matrix.
 
 
 Requirements    
