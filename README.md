@@ -10,9 +10,9 @@ Requirements
 ---------------------------------------------------
 
 
-*  Raspberry Pi 3
-*  Camera (e.g. camera eye Ps3)
-*  Adafruit NeoPixel NeoMatrix 8x8 - 64 RGB LED Pixel Matrix
+* Raspberry Pi 3
+* Camera (e.g. camera eye Ps3)
+* Adafruit NeoPixel NeoMatrix 8x8 - 64 RGB LED Pixel Matrix
 
 
 Detection using a pre-trained model
